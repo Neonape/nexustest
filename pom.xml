@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.javaee7.sample</groupId>
     <artifactId>javaee7-simple-sample</artifactId>
-    <version>3.0.3</version>
+    <version>3.1.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>javaee7-simple-sample</name>
     <properties>
@@ -21,7 +21,7 @@
         <connection>scm:git:https://github.com/Neonape/nexustest.git</connection>
         <url>https://github.com/Neonape/nexustest.git</url>
         <developerConnection>scm:git:https://github.com/Neonape/nexustest.git</developerConnection>
-        <tag>first</tag>
+        <tag>v1.133.1</tag>
     </scm>
     <developers>
         <developer>
