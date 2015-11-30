@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.javaee7.sample</groupId>
     <artifactId>javaee7-simple-sample</artifactId>
-    <version>2.1-SNAPSHOT</version>
+    <version>3.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>javaee7-simple-sample</name>
     <properties>
@@ -18,15 +18,15 @@
         </dependency>
     </dependencies>
     <scm>
-        <connection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</connection>
-        <url>https://github.com/javaee-samples/javaee7-simple-sample.git</url>
-        <developerConnection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</developerConnection>
+        <connection>scm:git:https://github.com/Neonape/nexustest.git</connection>
+        <url>https://github.com/Neonape/nexustest.git</url>
+        <developerConnection>scm:git:https://github.com/Neonape/nexustest.git</developerConnection>
         <tag>v1.133.1</tag>
     </scm>
     <developers>
         <developer>
-            <name>Arun Gupta</name>
-            <email>arun.gupta@gmail.com</email>
+            <name>Valentin</name>
+            <email>neonape@googlemail.com</email>
         </developer>
     </developers>
     <distributionManagement>
